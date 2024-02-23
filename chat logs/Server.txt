@@ -1,0 +1,33 @@
+
+
+Secure Connection (HTTPS): A website with a secure connection (HTTPS) assures users that their personal and financial information is encrypted and protected.
+
+Clear and Transparent Policies: Trust is often built when a website has clear and transparent policies, including terms of service, privacy policy, and return/exchange policies. Make sure users can easily find and understand these policies.
+
+Professional Design and Functionality: A well-designed and functional website can instill confidence in users. This includes a user-friendly interface, easy navigation, and professional aesthetics.
+
+Customer Reviews and Testimonials: Genuine customer reviews and testimonials provide social proof, indicating that others have had positive experiences with the company and its products or services.
+
+Secure Payment Options: Offering reputable and secure payment options (such as credit card processors with a good reputation) can enhance trust during the checkout process.
+
+Contact Information: Providing clear contact information, including a physical address, email, and customer support phone number, demonstrates transparency and accessibility.
+
+Trust Seals and Certifications: Displaying trust seals or certifications from reputable third-party organizations (such as SSL certificates or industry-specific certifications) can enhance credibility.
+
+Responsive Customer Support: Offering responsive and helpful customer support, including live chat, email, or phone support, can reassure customers that help is available if needed.
+
+Accurate Product Descriptions: Providing detailed and accurate product descriptions, including information about specifications, dimensions, and materials, helps manage customer expectations and reduces the likelihood of returns.
+
+Social Media Presence: An active and engaging presence on social media can contribute to a company's credibility. It allows customers to interact with the brand and see how the company responds to feedback or inquiries.
+
+Remember, trust is built over time through consistent positive experiences, and these features contribute to creating a reliable and secure online shopping environment.Abstract
+This paper covers the project LAN Messenger’s methodology in detail. Following the project’s description, the issue areas solutions as well as the project’s aims and objectives were discussed. The background portion of this project makes the initiative’s motivation clear. The context is further explained by discussing technical concepts. To show the report’s progress, important project development elements like Gantt charts, Flowcharts and Work breakdown structures are also detailed.
+
+Introduction
+An effective communication channel is required in small companies where every employee must be connected. According to (Perryer, 2018), email is the most popular and preferred method of communication within organizations. Many venues, like emails, are being used to receive and distribute information that is totally dependent on the internet. Additionally, comparable platforms are utilized to carry out peer-to-peer chats and receive openly available email and messages.
+
+Project Description 
+A LAN messenger is an application that allows users to send text messages to network-connected devices. This software comprises of two files, one of which must be run on a static device and the other of which can be transmitted to participating clients. Clients can then log in using their credentials and be given information about online users with whom they can talk. Additionally, this application can be used in a home network where a router for Wi-Fi is already installed. This application won't need an internet connection to work, but it will need a communication channel, such a Wi-Fi signal, to do so.
+
+Current Scenario 
+In a company that operates continuously and needs to communicate with its employees on a regular basis by delivering messages, notifications, updates, etc. (Perryer, 2018). Communication could be hampered by the current server's unavailability, and staff members might miss crucial updates. The only way to keep the firm running during the 

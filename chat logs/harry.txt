@@ -1,0 +1,10 @@
+You: hasdf
+harry: fdsa
+You: hello
+harry: hello harry
+You: hello harry
+You: How are you Roshan
+harry: hi
+harry: allow image sharing,
+disallow .exe sharig
+You: sure brotheer
